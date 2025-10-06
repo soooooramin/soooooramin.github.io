@@ -1,12 +1,14 @@
 .name-container{
     background-color: white;
+    width: 80%;
+    height: auto;
     text-align: center;
     position: absolute;
     top: 5%;
     left: 52%;
     bottom: auto;
     transform: translate(-50%, 0%);
-    font-size: 5vw;
+    font-size: 3.5vw;
 }
 .section-title {
     background-color: white;
